@@ -26,8 +26,8 @@
 | `prefix` **%**	| Divide window vertically into panes	|  
 | `prefix` **"**	| Divide window horizontally into panes	|  
 | `prefix` **o**	| Cycle through panes	|  
-| `prefix` ***arrow keys***	| Cycle through panes	|  
-| `prefix` ***spacebar***	| Cycle through pane layouts	|  
+| `prefix` **arrow keys**	| Cycle through panes	|  
+| `prefix` **spacebar**	| Cycle through pane layouts	|  
 | `prefix` **x**	| Prompt to kill the pane (or window for last pane)	|  
 | `prefix` **s**	| List all sessions	|  
 | `prefix` **(**	| Switch to previous session	|  
