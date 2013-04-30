@@ -17,6 +17,8 @@
 | `prefix` **n** 	| Next window in this session	|  
 | `prefix` **p**	| Previous window in this session	|  
 | `prefix` **,**	| Rename current window	|  
+| `prefix` **z**	| Toggle zooming a single pane to fill the window (1.8 only)	|  
+| `prefix` **!**	| Create a new window from the current pane	| 
 | `prefix` **#**	| Switch to window `#`	|  
 | `prefix` **f**	| Find a window by name	|  
 | `prefix` **w**	| Display a menu to choose a window	|  
