@@ -29,6 +29,10 @@
 | `prefix` ***arrow keys***	| Cycle through panes	|  
 | `prefix` ***spacebar***	| Cycle through pane layouts	|  
 | `prefix` **x**	| Prompt to kill the pane (or window for last pane)	|  
+| `prefix` **s**	| List all sessions	|  
+| `prefix` **(**	| Switch to previous session	|  
+| `prefix` **)**	| Switch to next session	|  
+| `prefix` **.** *sessionname*	| Move current window to session *sessionname*	| 
 | `prefix` **:**	| Enter Command Mode	|  
 | `prefix` **?**	| List all keybindings	|  
 | `prefix` **[**	| Enter Copy Mode	|  
